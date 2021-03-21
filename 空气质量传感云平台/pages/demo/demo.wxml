@@ -1,0 +1,5 @@
+<!-- 
+    text标签相当于span标签，不换行
+    view标签相当于div标签，不换行
+ -->
+<text>pages/demo/demo.wxml</text>
